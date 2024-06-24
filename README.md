@@ -47,4 +47,3 @@ This study provides an in-depth analysis of cafes and restaurants in Riyadh, foc
 
 3. Separate Models for Cafes and Restaurants
    - Develop distinct models to capture specific patterns for each type of establishment.
-![image](https://github.com/shahadghawa/Riyadh_Places_ML/assets/94755943/6beb37e0-59ce-4af4-9a37-d7f1bda7b794)
