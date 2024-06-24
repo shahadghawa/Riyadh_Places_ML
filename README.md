@@ -1,13 +1,13 @@
 ## Riyadh Places Analysis - README
 
-Overview
+#### Overview <br />
 This repository contains the project files for the analysis of cafes and restaurants in Riyadh using advanced data mining techniques. The aim is to understand their distribution, ratings, and proximity to key landmarks.
 
 
-Abstract
+#### Abstract <br />
 This study provides an in-depth analysis of cafes and restaurants in Riyadh, focusing on their distribution, ratings, and proximity to key landmarks. The methodology included data collection and preprocessing, exploratory data analysis (EDA), outlier detection, normality testing, and regression modeling. Key preprocessing steps involved handling missing values, removing duplicates, and adding new features such as neighborhood and distance metrics. Various regression models were developed, with XGBoost achieving the best performance after hyper-parameter tuning.
 
-Methodology
+#### Methodology
 1. Data Collection and Preprocessing
    - Handled missing values and duplicates.
    - Added new features like neighborhood and distance metrics.
@@ -26,7 +26,7 @@ Methodology
    - Performed hyper-parameter tuning on XGBoost.
    - Evaluated models using Mean Squared Error (MSE) and R² scores.
 
-Results
+#### Results
 - Distribution Analysis
   - Central Riyadh has the highest concentration of cafes and restaurants.
   - Al Yasmin, Al Shifa, and Al Aziziyah are neighborhoods with the highest concentrations.
@@ -38,7 +38,7 @@ Results
 - Regression Models
   - XGBoost performed best with the lowest MSE and highest R² scores after hyper-parameter tuning.
 
- Future Work
+ #### Future Work
 1. Data Feature Engineering
    - Add new features like social media engagement metrics, customer demographics, and seasonal trends.
 
